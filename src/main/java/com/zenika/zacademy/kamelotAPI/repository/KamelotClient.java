@@ -1,13 +1,12 @@
-package com.zenika.zacademy.kamelotAPI;
+package com.zenika.zacademy.kamelotAPI.repository;
 
-import com.zenika.zacademy.kamelotAPI.Service.KamelotResponse;
+import com.zenika.zacademy.kamelotAPI.configuration.KamelotConfig;
+import com.zenika.zacademy.kamelotAPI.service.KamelotResponse;
 import org.springframework.stereotype.Component;
 import org.springframework.web.client.RestClientException;
 import org.springframework.web.client.RestTemplate;
 
-import javax.swing.text.html.Option;
 import java.util.Objects;
-import java.util.Optional;
 
 @Component
 public class KamelotClient {

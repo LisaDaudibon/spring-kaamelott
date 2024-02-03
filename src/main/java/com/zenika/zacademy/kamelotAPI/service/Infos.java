@@ -1,4 +1,4 @@
-package com.zenika.zacademy.kamelotAPI.Service;
+package com.zenika.zacademy.kamelotAPI.service;
 
 import lombok.Getter;
 import lombok.Setter;

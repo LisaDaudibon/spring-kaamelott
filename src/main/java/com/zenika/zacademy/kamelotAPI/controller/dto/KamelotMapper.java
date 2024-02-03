@@ -1,6 +1,6 @@
-package com.zenika.zacademy.kamelotAPI.Controller.dto;
+package com.zenika.zacademy.kamelotAPI.controller.dto;
 
-import com.zenika.zacademy.kamelotAPI.Service.KamelotResponse;
+import com.zenika.zacademy.kamelotAPI.service.KamelotResponse;
 import org.springframework.stereotype.Component;
 
 @Component

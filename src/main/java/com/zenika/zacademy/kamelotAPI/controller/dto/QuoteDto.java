@@ -1,4 +1,4 @@
-package com.zenika.zacademy.kamelotAPI.Controller.dto;
+package com.zenika.zacademy.kamelotAPI.controller.dto;
 
 import lombok.Getter;
 import lombok.Setter;
